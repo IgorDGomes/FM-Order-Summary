@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https)
-- Live Site URL: [Live site](https)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-html-and-css-W3FkKMqrkQ)
+- Live Site URL: [Live site](https://igordgomes.github.io/FM-Order-Summary/)
 
 
 ## My process
